@@ -11,5 +11,5 @@
 - * ROC-AUC: 0.59
 
 ## Model Image
-![Confusion Matrix](reports/databest_model__confusion_matrix.png)
+![Confusion Matrix](report/databest_model__confusion_matrix.png)
 
